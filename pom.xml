@@ -4,7 +4,7 @@
   <!-- The Basics -->
   <groupId>com.poortoys</groupId>
   <artifactId>maven-parent-pom</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <!-- Build Settings -->
@@ -109,7 +109,7 @@
     <url>https://github.com/khasunuma/maven-parent-pom</url>
     <connection>scm:git:https://github.com/khasunuma/maven-parent-pom.git</connection>
     <developerConnection>scm:git:https://github.com/khasunuma/maven-parent-pom.git</developerConnection>
-    <tag>v1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
